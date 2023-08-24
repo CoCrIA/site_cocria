@@ -1,0 +1,3 @@
+### Avisos ###
+
+•git branch -u origin/main > Atualizar o repositório.
